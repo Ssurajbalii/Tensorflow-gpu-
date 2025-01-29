@@ -3,4 +3,9 @@ pandas
 matplotlib
 seaborn
 numpy
+<<<<<<< HEAD
 scikit-learn
+=======
+scikit-learn
+torch
+>>>>>>> origin/main
